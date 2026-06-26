@@ -1,0 +1,23 @@
+ocr:
+  enabled: true
+  min_text_chars_per_page: 30
+  dpi: 220
+extraction:
+  use_pymupdf: true
+  use_pdfplumber: true
+  use_camelot: true
+  use_tabula: false
+  table_min_confidence: 0.65
+normalization:
+  numeric_tolerance: 0.001
+  unit_aliases:
+    yuan: [元, 人民币元, RMB]
+    ten_thousand_yuan: [万元, 万人民币]
+    hundred_million_yuan: [亿元, 亿人民币]
+retrieval:
+  top_k_pages: 5
+  top_k_blocks: 12
+answering:
+  require_evidence: true
+  abstain_when_low_confidence: true
+  min_answer_confidence: 0.55

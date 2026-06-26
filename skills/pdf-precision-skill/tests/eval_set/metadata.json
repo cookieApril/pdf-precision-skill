@@ -1,0 +1,15 @@
+{
+  "dataset_name": "meituan_2025_annual_report_tc_precision_eval",
+  "source_pdf": "meituan_2025_annual_report_tc.pdf",
+  "num_questions": 30,
+  "coverage": [
+    "financial summary",
+    "segment tables",
+    "formal financial statements",
+    "metadata",
+    "derived calculations",
+    "negative abstain"
+  ],
+  "language": "Traditional Chinese with mixed English labels",
+  "unit_convention": "Most financial amounts are RMB thousand unless unit says otherwise."
+}

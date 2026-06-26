@@ -1,0 +1,219 @@
+{
+  "count": 30,
+  "exact_match": 0.26666666666666666,
+  "numeric_accuracy": 0.2,
+  "evidence_accuracy": 0.3,
+  "abstain_accuracy": 0.03333333333333333,
+  "details": [
+    {
+      "id": "mt_001",
+      "exact": true,
+      "numeric": true,
+      "evidence": true,
+      "abstain": false
+    },
+    {
+      "id": "mt_002",
+      "exact": true,
+      "numeric": true,
+      "evidence": true,
+      "abstain": false
+    },
+    {
+      "id": "mt_003",
+      "exact": true,
+      "numeric": true,
+      "evidence": true,
+      "abstain": false
+    },
+    {
+      "id": "mt_004",
+      "exact": false,
+      "numeric": false,
+      "evidence": true,
+      "abstain": false
+    },
+    {
+      "id": "mt_005",
+      "exact": true,
+      "numeric": false,
+      "evidence": true,
+      "abstain": false
+    },
+    {
+      "id": "mt_006",
+      "exact": true,
+      "numeric": true,
+      "evidence": true,
+      "abstain": false
+    },
+    {
+      "id": "mt_007",
+      "exact": true,
+      "numeric": true,
+      "evidence": true,
+      "abstain": false
+    },
+    {
+      "id": "mt_008",
+      "exact": false,
+      "numeric": false,
+      "evidence": true,
+      "abstain": false
+    },
+    {
+      "id": "mt_009",
+      "exact": false,
+      "numeric": false,
+      "evidence": false,
+      "abstain": false
+    },
+    {
+      "id": "mt_010",
+      "exact": true,
+      "numeric": true,
+      "evidence": true,
+      "abstain": false
+    },
+    {
+      "id": "mt_011",
+      "exact": false,
+      "numeric": false,
+      "evidence": false,
+      "abstain": false
+    },
+    {
+      "id": "mt_012",
+      "exact": false,
+      "numeric": false,
+      "evidence": false,
+      "abstain": false
+    },
+    {
+      "id": "mt_013",
+      "exact": false,
+      "numeric": false,
+      "evidence": false,
+      "abstain": false
+    },
+    {
+      "id": "mt_014",
+      "exact": false,
+      "numeric": false,
+      "evidence": false,
+      "abstain": false
+    },
+    {
+      "id": "mt_015",
+      "exact": false,
+      "numeric": false,
+      "evidence": false,
+      "abstain": false
+    },
+    {
+      "id": "mt_016",
+      "exact": false,
+      "numeric": false,
+      "evidence": false,
+      "abstain": false
+    },
+    {
+      "id": "mt_017",
+      "exact": false,
+      "numeric": false,
+      "evidence": false,
+      "abstain": false
+    },
+    {
+      "id": "mt_018",
+      "exact": false,
+      "numeric": false,
+      "evidence": false,
+      "abstain": false
+    },
+    {
+      "id": "mt_019",
+      "exact": false,
+      "numeric": false,
+      "evidence": false,
+      "abstain": false
+    },
+    {
+      "id": "mt_020",
+      "exact": false,
+      "numeric": false,
+      "evidence": false,
+      "abstain": false
+    },
+    {
+      "id": "mt_021",
+      "exact": false,
+      "numeric": false,
+      "evidence": false,
+      "abstain": false
+    },
+    {
+      "id": "mt_022",
+      "exact": false,
+      "numeric": false,
+      "evidence": false,
+      "abstain": false
+    },
+    {
+      "id": "mt_023",
+      "exact": false,
+      "numeric": false,
+      "evidence": false,
+      "abstain": false
+    },
+    {
+      "id": "mt_024",
+      "exact": false,
+      "numeric": false,
+      "evidence": false,
+      "abstain": false
+    },
+    {
+      "id": "mt_025",
+      "exact": false,
+      "numeric": false,
+      "evidence": false,
+      "abstain": false
+    },
+    {
+      "id": "mt_026",
+      "exact": false,
+      "numeric": false,
+      "evidence": false,
+      "abstain": false
+    },
+    {
+      "id": "mt_027",
+      "exact": false,
+      "numeric": false,
+      "evidence": false,
+      "abstain": false
+    },
+    {
+      "id": "mt_028",
+      "exact": false,
+      "numeric": false,
+      "evidence": false,
+      "abstain": false
+    },
+    {
+      "id": "mt_029",
+      "exact": false,
+      "numeric": false,
+      "evidence": false,
+      "abstain": false
+    },
+    {
+      "id": "mt_030",
+      "exact": true,
+      "numeric": false,
+      "evidence": false,
+      "abstain": true
+    }
+  ]
+}
